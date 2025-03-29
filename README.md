@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on coding and random projects in the future.
+- 🌱 I’m currently learning about a lot of life stuff.
+- 🤔 I’m looking for assistance in finding a stable tech job.
+- 📫 How to reach me: idk, but if you do let me know
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have no fun fact
+
 <!--
 **Lieostar/Lieostar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
